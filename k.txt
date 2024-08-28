@@ -47,4 +47,14 @@ Response.Write("Current url :" + Request.Url.AbsoluteUri);
 
 Label1.Text = "you are selected : " + Calendar1.SelectedDate.ToString("D");
 
+ ---------------------------------Adrotator Control. 
 
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost:64992/WebSite13/m.jpg</ImageUrl>ergn
+  </Ad>
+  <Ad>
+    <ImageUrl>      </ImageUrl>
+  </Ad>
+</Advertisements>
